@@ -1,0 +1,61 @@
+# Travel-ticket-booking-python-project
+# Final Output should be like this..............
+                **************Welcome To Travelling World****************
+
+
+                                --------------
+                                | Login Page |
+                                --------------
+
+
+                        Enter userId :  abc
+                        Enter the Password :    123
+        --------------------------------------------------------------
+                        The captcha is:  ( 31 + 80 )
+                        Solve the captcha :     111
+        --------------------------------------------------------------
+                        You Are Succefully Logged In.....
+        --------------------------------------------------------------
+                        Your transport mediums are:
+                                        1)BUS
+                                        2)TRAIN
+                                        3)AIROPLANE
+
+                        Enter your transport medium:    bus
+                        Your Arrival location is PUNE.
+                        Your Destination's location are:
+                                        1)Mumbai
+                                        2)Thane
+                                        3)Nagpur
+                                        4)Nashik
+                                        5)SambhajiNagar
+                        Choose one of them:     thane
+                        Details as shown below:
+                                Date:  27-06-2022
+                                Time:  10:30 AM
+                                Budgets:  800
+                                duration:  5hr
+
+        --------------------------------------------------------------
+                        Enter no of passengers:2
+        --------------------------------------------------------------
+                        Passenger No: 1
+                         First Name :   Shrinivas
+                         Last Name :    Narhare
+                         Age :  19
+                         Mobile no. :98765432109876
+                         Invalid mobile number please reenter again....
+                         Mobile no. :0987
+                         Invalid mobile number please reenter again....
+                         Mobile no. :9876543210
+                        Passenger No: 2
+                         First Name :   Ajay
+                         Last Name :    Pandit
+                         Age :  19
+                         Mobile no. :8765432190
+                        Your total bill amount is : 1600
+
+                        Your details are successfully saved
+
+                        THANK YOU!
+
